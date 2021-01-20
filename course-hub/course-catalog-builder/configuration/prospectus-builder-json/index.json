@@ -1,0 +1,85 @@
+{
+  "prospectus": [
+{
+    "sectionTitle": "Course Overview",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/marine-science/",
+    "sectionRanges": "2,3",
+    "sectionParentTitle": "Marine Science"
+},{
+    "sectionTitle": "Is this course right for you",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/marine-science/",
+    "sectionRanges": "4",
+    "sectionParentTitle": "Marine Science"
+},{
+    "sectionTitle": "How to Apply",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/marine-science/",
+    "sectionRanges": "5",
+    "sectionParentTitle": "Marine Science"
+},{
+    "sectionTitle": "Entry Requirements",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/marine-science/",
+    "sectionRanges": "6",
+    "sectionParentTitle": "Marine Science"
+},{
+    "sectionTitle": "International Opportunities",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/marine-science/",
+    "sectionRanges": "7",
+    "sectionParentTitle": "Marine Science"
+},{
+    "sectionTitle": "Course Outline",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/marine-science/",
+    "sectionRanges": "8",
+    "sectionParentTitle": "Marine Science"
+},{
+    "sectionTitle": "Course overview",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/earth-systems/",
+    "sectionRanges": "9,11",
+    "sectionParentTitle": "Earth Systems"
+},{
+    "sectionTitle": "Entry Requirements",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/earth-systems/",
+    "sectionRanges": "10",
+    "sectionParentTitle": "Earth Systems"
+},{
+    "sectionTitle": "Course overview",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/software-engineering/",
+    "sectionRanges": "12",
+    "sectionParentTitle": "Software Engineering"
+},{
+    "sectionTitle": "Is this course right for you",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/software-engineering/",
+    "sectionRanges": "13",
+    "sectionParentTitle": "Software Engineering"
+},{
+    "sectionTitle": "Course overview",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/chemistry/",
+    "sectionRanges": "14,15",
+    "sectionParentTitle": "Chemistry"
+},{
+    "sectionTitle": "Entry Requirements",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/world-history/",
+    "sectionRanges": "16-18",
+    "sectionParentTitle": "World History"
+},{
+    "sectionTitle": "How to Apply",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/math/",
+    "sectionRanges": "19-21",
+    "sectionParentTitle": "Math"
+},{
+    "sectionTitle": "Course Outline",
+    "sectionParent": "/course-hub/course-catalog-builder/courses/math/",
+    "sectionRanges": "8",
+    "sectionParentTitle": "Math"
+},{
+    "sectionTitle": "First Page",
+    "sectionParent": "/course-hub/course-catalog-builder/page-ranges/first-page/",
+    "sectionRanges": "1",
+    "sectionParentTitle": "First Page"
+},{
+    "sectionTitle": "Last Page",
+    "sectionParent": "/course-hub/course-catalog-builder/page-ranges/last-page/",
+    "sectionRanges": "22",
+    "sectionParentTitle": "Last Page"
+},
+]
+}

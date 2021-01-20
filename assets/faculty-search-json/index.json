@@ -1,0 +1,84 @@
+{
+    "courses": [{
+    "firstname": "May",
+    "lastname": "Olson",
+    "phone": "+1 (926) 469-3631",
+    "email": "mayolson@t4u.com",
+    "type": "Researcher",
+    "title": "Senior Lecturer",
+    "department": "Medicine",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/may-olson.php'>May Olson</a><br><small>Senior Lecturer</small></td><td>Researcher</td><td>Medicine</td><td>+1 (926) 469-3631</td></tr>"
+},{
+    "firstname": "Noemi",
+    "lastname": "Figueroa",
+    "phone": "+1 (932) 424-2000",
+    "email": "noemifigueroa@t4u.com",
+    "type": "Researcher",
+    "title": "Post Doctoral Researcher",
+    "department": "Computer Science",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/noemi-figueroa.php'>Noemi Figueroa</a><br><small>Post Doctoral Researcher</small></td><td>Researcher</td><td>Computer Science</td><td>+1 (932) 424-2000</td></tr>"
+},{
+    "firstname": "Freda",
+    "lastname": "Alford",
+    "phone": "",
+    "email": "fredaalford@t4u.com",
+    "type": "Other, Researcher",
+    "title": "Professor",
+    "department": "Biology",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/freda-alford.php'>Freda Alford</a><br><small>Professor</small></td><td>Other, Researcher</td><td>Biology</td><td></td></tr>"
+},{
+    "firstname": "Weaver",
+    "lastname": "McGowan",
+    "phone": "+1 (832) 566-3359",
+    "email": "weavermcgowan@t4u.com",
+    "type": "Academic",
+    "title": "",
+    "department": "Sociology",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/weaver-mcgowan.php'>Weaver McGowan</a></td><td>Academic</td><td>Sociology</td><td>+1 (832) 566-3359</td></tr>"
+},{
+    "firstname": "Jeanne",
+    "lastname": "Langley",
+    "phone": "",
+    "email": "jeannelangley@t4u.com",
+    "type": "Academic",
+    "title": "Part-Time Teaching Assistant",
+    "department": "English",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/jeanne-langley.php'>Jeanne Langley</a><br><small>Part-Time Teaching Assistant</small></td><td>Academic</td><td>English</td><td></td></tr>"
+},{
+    "firstname": "Marshall",
+    "lastname": "Thompson",
+    "phone": "+1 (855) 550-2120",
+    "email": "marshallthompson@t4u.com",
+    "type": "Other",
+    "title": "Lecturer Above The Bar, Professor",
+    "department": "Biology, Computer Science, Genetics",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/marshall-thompson.php'>Marshall Thompson</a><br><small>Lecturer Above The Bar, Professor</small></td><td>Other</td><td>Biology, Computer Science, Genetics</td><td>+1 (855) 550-2120</td></tr>"
+},{
+    "firstname": "Fischer",
+    "lastname": "Nichols",
+    "phone": "",
+    "email": "fischernichols@t4u.com",
+    "type": "Researcher",
+    "title": "Senior Lecturer",
+    "department": "Physics",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/fischer-nichols.php'>Fischer Nichols</a><br><small>Senior Lecturer</small></td><td>Researcher</td><td>Physics</td><td></td></tr>"
+},{
+    "firstname": "Hurley",
+    "lastname": "Wade",
+    "phone": "+1 (804) 527-3676",
+    "email": "hurleywade@t4u.com",
+    "type": "Researcher",
+    "title": "Part-Time Teaching Assistant",
+    "department": "Medicine, Music",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/hurley-wade.php'>Hurley Wade</a><br><small>Part-Time Teaching Assistant</small></td><td>Researcher</td><td>Medicine, Music</td><td>+1 (804) 527-3676</td></tr>"
+},{
+    "firstname": "Joyner",
+    "lastname": "Puckett",
+    "phone": "+1 (977) 499-2909",
+    "email": "joynerpuckett@t4u.com",
+    "type": "Academic, Researcher",
+    "title": "Lecturer Above The Bar, Professor",
+    "department": "Psychology",
+    "HTMLResult": "<tr><td><a href='/research/staff-members/joyner-puckett.php'>Joyner Puckett</a><br><small>Lecturer Above The Bar, Professor</small></td><td>Academic, Researcher</td><td>Psychology</td><td>+1 (977) 499-2909</td></tr>"
+},
+]}

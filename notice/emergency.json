@@ -1,0 +1,9 @@
+{
+  "notices": [{
+	"message":"Test Alert! This is an example of the notice system.",
+	"url":"/notice/test-alert-this-is-an-example-of-the-notice-system.php",
+	"noticetype":"warning",
+	"id":"id4656"
+},
+{"":""}]
+}
